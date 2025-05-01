@@ -76,7 +76,10 @@ Yeni çalışma alanı oluşturun
 "Lakehouse" bileşeni ekleyin
 
 Veri dosyalarını yükleyin
-![diyagram](./images/diagram.png)
+
+
+
+<img src="./images/diagram.png" alt="Diyagram açıklaması" width="500">
 
 
 python
