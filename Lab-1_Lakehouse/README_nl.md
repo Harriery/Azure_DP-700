@@ -76,7 +76,12 @@ Maak nieuwe werkruimte aan
 Voeg "Lakehouse"-component toe
 
 Laad databestanden
+
+
+
 <img src="./images/diagram.png" alt="Diyagram açıklaması" width="500">
+
+
 python
 # Voorbeeld data-load code (PySpark)
 df = spark.read.csv("sales.csv", header=True, inferSchema=True)
