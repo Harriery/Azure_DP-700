@@ -1,7 +1,7 @@
-🚀 Data-Analyse met Apache Spark in Microsoft Fabric
+# 🚀 Data-Analyse met Apache Spark in Microsoft Fabric
 Microsoft Fabric en Apache Spark
 
-📌 Projectoverzicht
+## 📌 Projectoverzicht
 In dit project heb ik een complete data-analysepipeline gebouwd in Microsoft Fabric met behulp van Apache Spark. De belangrijkste onderdelen:
 
 Data laden en transformeren met PySpark
@@ -12,13 +12,13 @@ Geoptimaliseerde dataopslag met Delta Lake
 
 Automatische rapportage in Power BI
 
-🛠️ Gebruikte Technologieën
+## 🛠️ Gebruikte Technologieën
 Microsoft Fabric
 Apache Spark
 Python
 Delta Lake
 
-📂 Projectstructuur
+## 📂 Projectstructuur
 
 <img src="./images/structuur.png" alt="project structuur" width="500">
 
@@ -76,7 +76,7 @@ Integratie van 3 verschillende databronnen
 
 Automatisch rapportagesysteem
 
-🤝 Bijdragen
+## 🤝 Bijdragen
 Bijdragen zijn welkom! Volg deze stappen:
 
 Fork de repository
@@ -89,10 +89,10 @@ Push naar de branch (git push origin feature/geweldige-feature)
 
 Open een Pull Request
 
-📜 Licentie
+## 📜 Licentie
 Dit project is gelicentieerd onder de MIT-licentie - zie LICENSE bestand voor details.
 
-✉️ Contact
+## ✉️ Contact
 Voor vragen over het project:
 LinkedIn : www.linkedin.com/in/yasin-ütük
 

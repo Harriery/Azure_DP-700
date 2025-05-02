@@ -1,4 +1,4 @@
-##🚀 Microsoft Fabric'te Apache Spark ile Veri Analizi Projesi
+# 🚀 Microsoft Fabric'te Apache Spark ile Veri Analizi Projesi
 Microsoft Fabric ve Apache Spark
 
 📌 Proje Özeti
@@ -76,6 +76,8 @@ Proje sonunda elde edilen başarılı çıktılar:
 3 farklı veri kaynağının entegrasyonu
 
 Otomatik raporlama sistemi
+
+LinkedIn : www.linkedin.com/in/yasin-ütük
 
 ![1](./images/1.png)
 ![2](./images/2.png)
