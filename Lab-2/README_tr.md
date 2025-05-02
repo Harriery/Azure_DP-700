@@ -19,17 +19,10 @@ Python
 Delta Lake
 
 📂 Proje Yapısı
-bash
-├── notebooks/               # Jupyter notebook dosyaları
-│   └── spark_analysis.ipynb
-├── data/                    # Örnek veri dosyaları
-│   ├── orders/
-│   │   ├── 2019.csv
-│   │   ├── 2020.csv
-│   │   └── 2021.csv
-│   └── transformed_data/
-├── docs/                    # Dokümantasyon
-└── README.md                # Bu dosya
+
+<img src="./images/structuur.png" alt="project structuur" width="500">
+
+
 🏗️ Kurulum
 Ön Koşullar
 Microsoft Fabric hesabı

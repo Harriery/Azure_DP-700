@@ -82,6 +82,7 @@ Veri dosyalarını yükleyin
 <img src="./images/diagram.png" alt="Diyagram açıklaması" width="500">
 
 
+
 python
 # Örnek veri yükleme kodu (PySpark)
 df = spark.read.csv("sales.csv", header=True, inferSchema=True)
