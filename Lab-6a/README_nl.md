@@ -64,9 +64,13 @@ Financiën: Risicoanalyse en kredietscoringsmodellen
 Gebruik deze methoden in de volgende situaties:
 
 ✅ Wanneer traditionele databases tekortschieten voor analytische query's
+
 ✅ Wanneer data uit verschillende bronnen gecombineerd moet worden voor betekenisvolle inzichten
+
 ✅ Voor complexe analyses op grote datasets
+
 ✅ Om data-gedreven besluitvorming te ondersteunen
+
 
 ## 📈 Leerresultaten
 Na het voltooien van deze module kun je:

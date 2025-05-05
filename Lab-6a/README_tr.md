@@ -64,8 +64,11 @@ Finans: Risk analizi ve kredi skorlama modelleri
 Bu çalışmadaki yöntemlere şu durumlarda başvurmalısınız:
 
 ✅ Geleneksel veritabanlarının analitik sorgular için yetersiz kaldığı durumlarda
+
 ✅ Farklı kaynaklardan gelen verileri birleştirip anlamlı bilgiler çıkarmak gerektiğinde
+
 ✅ Büyük ölçekli veriler üzerinde karmaşık analizler yapılması gerektiğinde
+
 ✅ Veriye dayalı karar alma süreçlerini desteklemek için
 
 ## 📈 Öğrenme Çıktıları
