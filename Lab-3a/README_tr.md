@@ -132,9 +132,7 @@ Bu adım sayesinde kullanıcılar raporları hızlıca filtreleyebilir, dilimley
 
 ---
 
-> Bu proje, Microsoft Fabric ortamında Medallion mimarisini gerçekten anlamak ve uygulamak isteyen veri uzmanları için rehber niteliğindedir.
-
-Devam eden çalışma için Gold katman ve Power BI semantik modeli detayları eklenecektir. ✨
+> Bu proje, Microsoft Fabric ortamında Medallion mimarisini gerçekten anlamak ve uygulamak isteyen veri uzmanları için rehber niteliğindedir.✨
 
 
 ![1](./images/1.png)
