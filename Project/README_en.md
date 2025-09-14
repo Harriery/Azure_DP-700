@@ -96,3 +96,7 @@ Alert when a taxi completes more than 5 rides in 1 hour
 Special monitoring of long rides during nighttime
 
 This enabled not just reporting but also proactive data reactions.
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
