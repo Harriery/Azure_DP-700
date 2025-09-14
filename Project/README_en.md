@@ -4,7 +4,22 @@
 ###  👥 Team: Yasin (Team Leader), Kahraman, Emine, Ayşe
 
 ### 🔧 Tools: Microsoft Fabric | Eventstream | Delta Lake | Dataflow Gen2 | Power BI | Eventhouse | Activator | Trello
+## Azure DP-700 Project
+In this project, my goal was to demonstrate hands-on data engineering skills aligned with Microsoft Fabric’s DP-700 certification requirements. Key areas covered:
 
+Ingesting, loading, and transforming data (both batch and streaming)
+
+Using SQL, PySpark and Kusto Query Language (KQL) for data transformations
+
+Designing data architecture for analytics solutions (e.g. lakehouse / data warehouse structures)
+
+Implementing security, access controls, and data governance (workspace level, row/column level permissions, data masking etc.)
+
+Automating workflows and scheduling (pipelines, triggers)
+
+Monitoring performance and optimizing processes (data flow, query optimization, error tracking)
+
+Through this project I wanted to showcase my proficiency in data engineering, my ability to design effective data solutions, and hands-on experience with Azure / Microsoft Fabric environment.
 
 ## 📌 Project Diagram
 We started the project by drawing a diagram to clearly visualize the steps to follow.
