@@ -3,7 +3,17 @@
 ###  Duration: 2 weeks
 ###   Team: Yasin (Team Leader), Kahraman, Emine, Ayşe
 
-###  Tools: Microsoft Fabric | Eventstream | Delta Lake | Dataflow Gen2 | Power BI | Eventhouse | Activator | Trello
+###  Tools: 
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Eventstream](https://img.shields.io/badge/Eventstream-1E90FF?style=for-the-badge)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Dataflow Gen2](https://img.shields.io/badge/Dataflow%20Gen2-2E8B57?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Eventhouse](https://img.shields.io/badge/Eventhouse-4682B4?style=for-the-badge)
+![Activator](https://img.shields.io/badge/Activator-800080?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 ## Azure DP-700 Project
 In this project, my goal was to demonstrate hands-on data engineering skills aligned with Microsoft Fabric’s DP-700 certification requirements. Key areas covered:
 
