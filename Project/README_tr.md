@@ -9,6 +9,25 @@
 
 🔧 Tools: Microsoft Fabric | Eventstream | Delta Lake | Dataflow Gen2 | Power BI | Eventhouse | Activator | Trello
 
+## Azure DP-700 Projesi
+Bu projede amacım, Microsoft Fabric DP-700 sınavı kapsamında gerçek hayata uygun veri mühendisliği becerilerimi göstermekti. Projede:
+
+Verilerin toplanması, yüklenmesi ve dönüştürülmesi (batch & streaming),
+
+SQL, PySpark ve KQL ile veri dönüşümleri,
+
+Lakehouse ve Data Warehouse gibi veri mimarisi tasarımları,
+
+Güvenlik, erişim kontrolleri ve veri yönetişimi,
+
+Pipeline’lar ve tetikleyicilerle otomasyon,
+
+Performans izleme ve optimizasyon
+konularında çalıştım.
+
+Bu projeyle veri mühendisliği yetkinliklerimi ve Azure/Microsoft Fabric ortamında çözüm geliştirme becerilerimi sergilemeyi hedefledim.
+
+
 ## Proje Diyagrami
 Önce projemize diyagram çizerek başladık. Böylece projede yapmamız gerekenleri gorselleştirerek izleyecegimiz adımları daha net görebildik.
 ![diyagram](./images/diyagram.png)

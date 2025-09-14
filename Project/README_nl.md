@@ -6,6 +6,23 @@
 
 ### 🔧 Tools: Microsoft Fabric | Eventstream | Delta Lake | Dataflow Gen2 | Power BI | Eventhouse | Activator | Trello
 
+## Azure DP-700 Project
+Het doel van dit project was om mijn data-engineeringvaardigheden te laten zien in het kader van het Microsoft Fabric DP-700 examen. In dit project heb ik gewerkt aan:
+
+Het verzamelen, laden en transformeren van data (batch & streaming),
+
+Data-transformaties met SQL, PySpark en KQL,
+
+Het ontwerpen van data-architectuur (Lakehouse en Data Warehouse),
+
+Beveiliging, toegangsbeheer en data-governance,
+
+Automatisering met pipelines en triggers,
+
+Monitoring en prestatie-optimalisatie.
+
+Met dit project wilde ik mijn technische kennis en praktijkervaring in Azure/Microsoft Fabric aantonen.
+
 ## 📌 Projectdiagram
 We zijn begonnen met een diagram om de stappen van het project duidelijk te visualiseren.
 
