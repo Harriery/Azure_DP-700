@@ -95,3 +95,7 @@ Waarschuwing als een taxi meer dan 5 ritten per uur voltooit
 Extra controle voor lange ritten 's nachts
 
 Zo konden we niet alleen rapporteren, maar ook proactief reageren op dat
+
+## Licentie
+Dit project is gelicentieerd onder de MIT-licentie. Zie het [LICENSE](LICENSE) bestand voor meer informatie.
+
